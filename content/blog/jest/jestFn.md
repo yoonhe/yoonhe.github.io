@@ -1,8 +1,11 @@
 ---
 title: "jest.fn()"
-categories:
-  - Im_Flex
+date: 2019-12-02 17:05:12
+category: jest
+thumbnail: { thumbnailSrc }
+draft: false
 ---
+
 
 ## jest.fn()
 

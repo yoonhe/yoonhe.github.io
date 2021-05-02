@@ -1,7 +1,9 @@
 ---
 title: "jest Matcher 함수"
-categories:
-  - Im_Flex
+date: 2019-12-01 17:05:12
+category: jest
+thumbnail: { thumbnailSrc }
+draft: false
 ---
 
 ## jest Matcher 함수
