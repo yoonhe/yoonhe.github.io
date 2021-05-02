@@ -5,7 +5,7 @@ category: jest
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-# jest Matcher 함수
+
 ## toEqual(value), toBe(value)
 1. toEqual : 원본배열이 아니어도 속성 값이 같으면 테스트 통과
 2. toBe : 원본배열과 같은 주소를 참조하여야 테스트 통과
