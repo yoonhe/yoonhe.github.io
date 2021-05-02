@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://yoonhe.github.io/review/temp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/algorithm/toy20-MergeSort/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/middleStatic/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/resSendFileANDpathJoin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -16,12 +17,12 @@
 <url> <loc>https://yoonhe.github.io/javascript/newOperator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/recursionStepByStep/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/algorithm/toy01-rockPaperScissors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/hA01-MultipleChoice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/hA01-MultipleChoice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/instantiationPattern/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/plusplus/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/arrowFunctionThis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/checkpoints-09/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/checkpoints-10-8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/checkpoints-09/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/checkpoints-10-8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/setTimeout/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/til/20191223TIL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/subclassing /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -46,16 +47,16 @@
 <url> <loc>https://yoonhe.github.io/til/20191206TIL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/oop2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/createobject/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/wslVscode/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/wslVscode/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/til/20191205TIL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/til/20191204TIL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/stringifyJSON/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/underbar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/jest/jestFn/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/stringifyJSON/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/underbar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/testing/jestFn/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/til/20191202TIL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/eSLintError/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/checkPoint/nodejsTestingLinting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/jest/jestMatcher/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/eSLintError/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/nodejsTestingLinting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/testing/jestMatcher/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/til/20191126TIL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/class/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/oop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -66,11 +67,12 @@
 <url> <loc>https://yoonhe.github.io/algorithm/pseudocode/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/parameters/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/javascript/passing_variables/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/http/http/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/http/httpHeader/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/http/httpRequestMessage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/question/prototypeInheritance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoonhe.github.io/question/reduceFunction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/web/http/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/web/httpHeader/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/web/httpRequestMessage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/etc/prototypeInheritance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/javascript/prototypeInheritance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoonhe.github.io/javascript/reduceFunction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/til/20200113TIL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoonhe.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
