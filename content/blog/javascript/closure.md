@@ -1,6 +1,6 @@
 ---
 title: closure
-date: 2021-11-21 14:05:82
+date: 2019-11-21 14:05:82
 category: javascript
 thumbnail: { thumbnailSrc }
 draft: false
