@@ -16,11 +16,11 @@ jobs:
       - name: gatsby build
         env:
           GH_API_KEY: ${{ secrets.GITHUB }}
-        run: npm build
+        run: npm run build
 
-      - name: deploy
-        uses: maxheld83/ghpages@v0.2.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_PAT: ${{ secrets.GITHUB }}
-          BUILD_DIR: 'public/'
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.0
+        with:
+          branch: gh-pages
+          folder: public
+
