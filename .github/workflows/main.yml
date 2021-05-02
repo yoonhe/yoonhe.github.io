@@ -1,8 +1,5 @@
-name: build gatsby
-on:
-  push:
-    branches:
-      - gh-pages
+name: Build and Deploy
+on: [push]
 jobs:
   build_gatsby:
     name: build
