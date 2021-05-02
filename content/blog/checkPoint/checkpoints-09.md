@@ -1,7 +1,9 @@
 ---
 title: "Checkpoints 09 TIL"
-categories:
-  - Im_Flex
+date: 2019-12-24 17:05:28
+category: checkPoint
+thumbnail: { thumbnailSrc }
+draft: false
 ---
 
 💁‍♀️ 오늘 알게된 사실  

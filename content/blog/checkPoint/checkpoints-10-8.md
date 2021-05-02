@@ -1,7 +1,9 @@
 ---
 title: "Checkpoints 10 - 8 문제 해결 TIL"
-categories:
-  - Im_Flex
+date: 2019-12-24 17:05:28
+category: checkPoint
+thumbnail: { thumbnailSrc }
+draft: false
 ---
 
 8번 - After the following code runs, what will be the value of result?
