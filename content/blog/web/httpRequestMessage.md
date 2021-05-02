@@ -1,7 +1,7 @@
 ---
 title: "HTTP Request message"
 date: 2019-11-15 16:05:80
-category: http
+category: web
 thumbnail: { thumbnailSrc }
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nodejs & Testing & Linting"
 date: 2019-12-01 17:05:28
-category: checkPoint
+category: etc
 thumbnail: { thumbnailSrc }
 draft: false
 ---

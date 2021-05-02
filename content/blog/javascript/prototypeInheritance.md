@@ -1,7 +1,7 @@
 ---
 title: "[Help Desk] 프로토타입 상속 관련 문제"
 date: 2019-10-21 16:05:26
-category: question
+category: javascript
 thumbnail: { thumbnailSrc }
 draft: false
 ---

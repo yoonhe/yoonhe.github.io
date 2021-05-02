@@ -1,7 +1,7 @@
 ---
 title: "Checkpoints 10 - 8 문제 해결 TIL"
 date: 2019-12-24 17:05:28
-category: checkPoint
+category: etc
 thumbnail: { thumbnailSrc }
 draft: false
 ---

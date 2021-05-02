@@ -1,7 +1,7 @@
 ---
 title: "WSL을 VS Code에서 개발 환경으로 "
 date: 2019-12-05 17:05:28
-category: checkPoint
+category: etc
 thumbnail: { thumbnailSrc }
 draft: false
 ---

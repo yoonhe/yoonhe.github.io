@@ -1,7 +1,7 @@
 ---
 title: "객관식 문제 오답풀이"
 date: 2020-01-11 17:05:28
-category: checkPoint
+category: etc
 thumbnail: { thumbnailSrc }
 draft: false
 ---

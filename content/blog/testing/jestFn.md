@@ -1,7 +1,7 @@
 ---
 title: "jest.fn()"
 date: 2019-12-02 17:05:12
-category: jest
+category: testing
 thumbnail: { thumbnailSrc }
 draft: false
 ---

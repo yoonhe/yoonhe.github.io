@@ -1,7 +1,7 @@
 ---
 title: "Recursion 연습 - stringifyJSON"
 date: 2019-12-02 17:05:28
-category: checkPoint
+category: etc
 thumbnail: { thumbnailSrc }
 draft: false
 ---
