@@ -1,0 +1,37 @@
+---
+title: graph
+date: 2019-12-09 17:05:11
+category: algorithm
+thumbnail: { thumbnailSrc }
+draft: false
+---
+
+## Graph
+- 노드(N, node)와 그 노드를 연결하는 간선(E, edge)을 하나로 모아 놓은 자료 구조
+- 연결되어 있는 객체 간의 관계를 표현할 수 있는 자료구조이다.
+	- 예시) 지도, 지하철 노선도의 최단 경로
+
+### Graph 종류
+#### 1. 방향 그래프
+![image.png](https://images.velog.io/post-images/yhe228/33c97370-1a69-11ea-a6d9-3dba616b4770/image.png)  
+- In-degree : 다른 버텍스에서부터 오는 아크의 개수
+- Out-degree : 다른 버텍스로 가는 아크의 개수
+
+#### 2. 무방향 그래프  
+![image.png](https://images.velog.io/post-images/yhe228/d7ec0940-1a69-11ea-b7b6-6926202c495f/image.png)
+- Degree : 양쪽으로 모두 연결되어 있는 아크의 개수
+
+### Graph를 코드로 표현하는 방법
+#### 1. 이차원 배열
+![image.png](https://images.velog.io/post-images/yhe228/87a97d50-1aeb-11ea-914e-3d06816c3d56/image.png)
+공간을 많이 차지하지만 간단하다.
+
+#### 2. 연결 리스트 
+![image.png](https://images.velog.io/post-images/yhe228/61ed7f20-1aec-11ea-8dfb-b3807206289e/image.png)
+공간은 적게 차지하지만 복잡하다.
+
+
+## 참고사이트
+- [참고사이트 - 1](https://www.zerocho.com/category/Algorithm/post/584b9033580277001862f16c)
+- [참고사이트 - 2](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
+- [참고사이트 - 3](https://m.blog.naver.com/PostView.nhn?blogId=kbs4674&logNo=220727852469&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
