@@ -1,26 +1,18 @@
 name: build gatsby
-on:
-  push:
-    branches:
-      - gh-pages
+on: [push]
 jobs:
   build_gatsby:
-    name: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
+    - name: Checkout 🛎️
+      uses: actions/checkout@v2.3.1
 
-      - name: npm install
-        run: npm install
+    - name: Install and Build 🔧 
+      run: |
+        npm install
+        npm run build
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@4.1.0
+      with:
+        branch: gh-pages
+        folder: dist
 
-      - name: gatsby build
-        env:
-          GH_API_KEY: ${{ secrets.GITHUB }}
-        run: npm run build
-
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.0
-        with:
-          branch: gh-pages
-          folder: public
 
