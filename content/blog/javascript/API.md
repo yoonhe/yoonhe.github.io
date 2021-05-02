@@ -1,7 +1,9 @@
 ---
 title: "API란?"
-categories:
-  - Server
+date: 2020-01-18 14:05:82
+category: javascript
+thumbnail: { thumbnailSrc }
+draft: false
 ---
 
 ## API

@@ -1,7 +1,9 @@
 ---
 title: "HTTP란"
-categories:
-  - HTTP
+date: 2019-11-15 16:05:80
+category: http
+thumbnail: { thumbnailSrc }
+draft: false
 ---
 
 ## HTTP란?
