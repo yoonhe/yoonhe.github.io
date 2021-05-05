@@ -2,7 +2,7 @@ module.exports = {
   title: `Heaeun`,
   description: `프론트엔드 개발자 윤해은입니다`,
   author: `Heaeun`,
-  introduction: `코드리뷰, TDD, 함께 자라기를 좋아하는 프론트엔드 개발자입니다`,
+  introduction: `코드리뷰, TDD, 함께 자라기를 지향하는 프론트엔드 개발자입니다`,
   siteUrl: `https://yoonhe.github.io/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
